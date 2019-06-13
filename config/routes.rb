@@ -1,10 +1,7 @@
 Rails.application.routes.draw do
-<<<<<<< HEAD
 
   resources :portfolios
-=======
-  resources :blogs
->>>>>>> controller-generator
+
   get 'pages/about'
   get 'pages/home'
   get 'pages/contact'
