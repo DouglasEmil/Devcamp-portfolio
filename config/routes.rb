@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
 
+  resources :portfolio1s
   resources :portfolios
 
   resources :blogs
