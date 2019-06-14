@@ -20,7 +20,7 @@ end
 
 puts "10 blog posts created"
 
-5.times do |Skill|
+5.times do |skill|
 	Skill.create!(
 		title: "Rails #{skill}"
 		
