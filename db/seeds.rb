@@ -27,7 +27,7 @@ puts "10 blog posts created"
 		)
 end
 
-puts "5 Skills created"
+puts "5 skills created"
 
 9.times do |portfolio1_item|
 	Portfolio1.create!(
